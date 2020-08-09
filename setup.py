@@ -8,7 +8,7 @@ setup(
     author = 'AldimGeldi',
     author_email = 'teknik@aldimgeldi.com',
     url = 'https://github.com/AldimGeldi/serverless_cache',
-    download_url = 'https://github.com/AldimGeldi/reponame/archive/v_01.tar.gz',    # I explain this later on
+    download_url = 'https://github.com/AldimGeldi/serverless_cache/archive/first_stable_release.zip',    # I explain this later on
     keywords = ['serverless', 'cache', 'serverless-db','serverless-cache'],   # Keywords that define your package best
     install_requires=[            # I get to this in a second
         'simplejson',
